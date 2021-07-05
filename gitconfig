@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = grosheny.michael@gmail.com
+	name = Grosheny Michael
